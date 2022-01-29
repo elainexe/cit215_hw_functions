@@ -1,5 +1,5 @@
 # cit215_hw_functions
- ***Elaine Butler***
+ ***Elaine***
  
  ***1/28/2022***
  
